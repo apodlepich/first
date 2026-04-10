@@ -88,4 +88,4 @@ $ git diff HEAD
 
 ## Ссылка на репозиторий
 
-https://github.com/apodlepich/one
+https://github.com/apodlepich/first
