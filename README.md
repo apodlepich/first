@@ -4,7 +4,6 @@
 Выполнил: Подлепич Артём  
 Логин GitHub: apodlepich  
 
-
 ## 1. Создан аккаунт на GitHub
 - Логин: **apodlepich** (первая буква имени + фамилия)
 
@@ -35,10 +34,10 @@ $ git config --global http.sslVerify false
 ## 6. Добавлены файлы и создан коммит
 ```bash
 $ git add .
-git commit -m "first commit"
-[main fd126e7] first commit
- 1 file changed, 10 insertions(+), 11 deletions(-)
-
+$ git commit -m "Initial commit: добавлен .gitignore"
+[main (root-commit) 21761b9] Initial commit: добавлен .gitignore
+ 1 file changed
+ create mode 100644 .gitignore
 ```
 
 ## 7. Привязан удалённый репозиторий
